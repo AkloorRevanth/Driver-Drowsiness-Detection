@@ -50,10 +50,12 @@ Drowsy driving is a leading cause of road accidents and fatalities. This project
 
 ## Screenshots
 ### Webcam Streaming
-![Webcam Streaming](screenshot1.png)
+![Webcam Streaming](![Screenshot (74)](https://github.com/user-attachments/assets/544f5cac-fd1c-4cb6-b5c1-02498591c229)
+.png)
 
 ### Drowsiness Detected
-![Drowsiness Alert](screenshot2.png)
+![Drowsiness Alert](![Screenshot (79)](https://github.com/user-attachments/assets/4d9c04b8-984f-4893-8118-7dd4e73c3e08)
+.png)
 
 ## Support Vector Machine (SVM) Overview
 SVM is a supervised machine learning algorithm used for classification tasks. It works by creating a **hyperplane** that best separates different classes in the dataset. The **Radial Basis Function (RBF) kernel** is used in this project to improve classification accuracy.
